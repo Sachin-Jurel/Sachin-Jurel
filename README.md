@@ -1,5 +1,4 @@
 <!-- Banner -->
-[![MasterHead](https://i.pinimg.com/originals/df/7d/51/df7d511d4f0cf59f5a7c6b4d8a37cfb3.gif)]
 
 <h1 align="center">Hi 👋, I'm Sachin Jurel</h1>
 <h3 align="center">🚀 Software Engineering Student | Aspiring Full Stack Developer</h3>
